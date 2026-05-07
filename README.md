@@ -97,14 +97,14 @@
 
 > 💡 Explora todos mis proyectos en mis [repositorios](https://github.com/JJgithubUT?tab=repositories).
 
----
+<!-- ---
 
 # 📊 Mis Estadísticas de GitHub
 
 <div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JJgithubUT&show_icons=true&theme=tokyonight&hide_border=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JJgithubUT&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
+</div> -->
 
 ---
 
@@ -127,6 +127,6 @@
 
 <div align="center">
 
-### ☕ Hecho con pasión, café y mucho código desde Tlaxcala, México 🇲🇽
+### 🌿 Hecho con pasión, muchisima 🌿🌿🌿🌿 y mucho código desde Tlaxcala, México 🇲🇽 🌿
 
 </div>
