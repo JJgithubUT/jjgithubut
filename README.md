@@ -1,73 +1,132 @@
 <div align="center">
 
 # 👋 ¡Hola! Soy Juan Javier Castillo Bretón
+### 🎓 Estudiante de la Universidad Tecnológica de Tlaxcala  
+### 💻 Desarrollador independiente · 🚀 Creador de proyectos creativos
 
-### 🎓 Estudiante en la Universidad Tecnológica de Tlaxcala · 💻 Desarrollador Independiente · 🚀 Creador de proyectos creativos
-
-[![GitHub followers](https://img.shields.io/github/followers/JJgithubUT?style=flat-square&color=6e40c9&labelColor=1c1c2e&label=followers)](https://github.com/JJgithubUT?tab=followers)
-[![GitHub User's stars](https://img.shields.io/github/stars/JJgithubUT?style=flat-square&color=f7c948&labelColor=1c1c2e&label=stars)](https://github.com/JJgithubUT?tab=stars)
-![Repos](https://img.shields.io/badge/repos-63-brightgreen?style=flat-square&color=00d8a2&labelColor=1c1c2e)
+[![GitHub followers](https://img.shields.io/github/followers/JJgithubUT?style=flat-square&color=6e40c9&labelColor=1c1c2e&label=Followers)](https://github.com/JJgithubUT?tab=followers)
+[![GitHub User's stars](https://img.shields.io/github/stars/JJgithubUT?style=flat-square&color=f7c948&labelColor=1c1c2e&label=Stars)](https://github.com/JJgithubUT?tab=stars)
+[![Repositorios](https://img.shields.io/badge/Repositorios-63-00d8a2?style=flat-square&labelColor=1c1c2e)](https://github.com/JJgithubUT?tab=repositories)
 
 </div>
 
 ---
 
-## 🛠️ Mi stack tecnológico
+# 🛠️ Mi Stack Tecnológico
 
-### 🌐 Frontend & Mobile
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+## 🌐 Frontend & Mobile
 
-### ⚙️ Backend & Cloud
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vue,angular,js,html,css,flutter" />
+</p>
 
-### 🗄️ Bases de datos
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+## 🖥️ Escritorio & Educativo
 
-### 🔧 Otros lenguajes & herramientas
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino_ESP32-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=dotnet" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Visual_FoxPro-5C2D91?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scratch-FF6680?style=for-the-badge&logo=scratch&logoColor=white" />
+</p>
+
+## ⚙️ Backend & Cloud
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,python,django,aws,supabase,docker" />
+</p>
+
+## 🗄️ Bases de Datos
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,firebase,postgres,mysql" />
+</p>
+
+## 🔧 Otros Lenguajes & Herramientas
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,c,unity,arduino,markdown,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=visualstudio" />
+</p>
 
 ---
 
-## 🚀 Proyectos destacados
+## 📋 Stack Completo
+
+| Categoría | Tecnología | Tipo |
+|---|---|---|
+| 🌐 Frontend | Vue.js | Framework |
+| 🌐 Frontend | Angular | Framework |
+| 🌐 Frontend | JavaScript | Lenguaje |
+| 🌐 Frontend | HTML5 | Maquetado |
+| 🌐 Frontend | CSS3 | Estilos |
+| 📱 Mobile | Flutter | Framework móvil |
+| 🖥️ Escritorio | Visual FoxPro | Lenguaje/IDE |
+| 🎓 Educativo | Scratch | Plataforma |
+| ⚙️ Backend | Node.js | Runtime |
+| ⚙️ Backend | Python | Lenguaje |
+| ⚙️ Backend | Django | Framework |
+| ⚙️ Backend | .NET | Framework |
+| ☁️ Cloud | AWS | Cloud |
+| ☁️ Cloud | Supabase | BaaS |
+| 🐳 DevOps | Docker | Contenedores |
+| 🗄️ Base de datos | MongoDB | NoSQL |
+| 🗄️ Base de datos | Firebase | Realtime DB |
+| 🗄️ Base de datos | PostgreSQL | Relacional |
+| 🗄️ Base de datos | MySQL | Relacional |
+| 🔧 Lenguaje | Java | Lenguaje |
+| 🔧 Lenguaje | C | Lenguaje |
+| 🎮 Motor | Unity | Motor de juegos |
+| 🔌 Hardware | Arduino | IoT / Hardware |
+| 📝 Docs | Markdown | Documentación |
+| 🛠️ IDE | Visual Studio | IDE |
+| 🛠️ IDE | VS Code | Editor de código |
+| 🔀 VCS | Git | Control de versiones |
+| 🔀 VCS | GitHub | Repositorios |
+
+---
+
+# 🚀 Proyectos Destacados
 
 | Proyecto | Descripción | Tecnología |
 |---|---|---|
-| [🪑 SCRBM](https://github.com/JJgithubUT/SCRBM) | Sistema de Cotización para Restauración de Bienes Muebles | Python |
-| [🌐 PruebasAppsWeb3erCT](https://github.com/JJgithubUT/PruebasAppsWeb3erCT) | Aplicaciones web — experimentos y prototipos | Python |
+| [🪑 SCRBM](https://github.com/JJgithubUT/SCRBM) | Sistema de Cotización para Restauración de Bienes Muebles | Python + Flask |
+| [🌐 PruebasAppsWeb3erCT](https://github.com/JJgithubUT/PruebasAppsWeb3erCT) | Aplicaciones web, experimentos y prototipos | Python |
+| [📱 Proyectos IoT](https://github.com/JJgithubUT) | Integraciones con Arduino, ESP32 y aplicaciones móviles | IoT |
 
-> 💡 Explora todos mis proyectos en mis [repositorios](https://github.com/JJgithubUT?tab=repositories) — siempre hay algo nuevo en construcción.
+> 💡 Explora todos mis proyectos en mis [repositorios](https://github.com/JJgithubUT?tab=repositories).
 
 ---
 
-## 📊 Estadísticas de GitHub
+# 📊 Mis Estadísticas de GitHub
 
 <div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JJgithubUT&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JJgithubUT&layout=compact&theme=tokyonight&hide_border=true"/>
+</div>
 
-![JJgithubUT's GitHub stats](https://github-readme-stats.vercel.app/api?username=JJgithubUT&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JJgithubUT&layout=compact&theme=tokyonight&hide_border=true)
+# 🔥 Actividad
 
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JJgithubUT&theme=tokyonight&hide_border=true"/>
+</div>
+
+---
+
+# 📈 Resumen de Lenguajes
+
+<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JJgithubUT&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JJgithubUT&theme=tokyonight"/>
 </div>
 
 ---
 
 <div align="center">
 
-*Hecho con ☕ y mucho código desde Tlaxcala, México 🇲🇽*
+### ☕ Hecho con pasión, café y mucho código desde Tlaxcala, México 🇲🇽
 
 </div>
